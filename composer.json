@@ -10,11 +10,16 @@
             "name": "Daniel Bojdo",
             "email": "daniel.bojdo@web-it.eu",
             "homepage": "http://www.web-it.eu"
+        },
+        {
+            "name": "Wojciech Adamczyk",
+            "email": "wadamczyk@insolutions.pl",
+            "homepage": "http://www.insolutions.pl"
         }
     ],
     "require": {
         "php": ">=5.3.2",
-        "symfony/symfony": "^2.3.0|^3.0.0",
+        "symfony/symfony": "^2.3.0|^3.0.0|^5.0.0",
         "webit/gls-ade": "^2.0.0",
         "webit/gls-tracking": "^2.0.0"
     },
