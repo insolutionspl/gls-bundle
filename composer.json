@@ -1,5 +1,5 @@
 {
-    "name" : "webit/gls-bundle",
+    "name" : "insolutionspl/gls-bundle",
     "type": "symfony-bundle",
     "description": "GLS ADE and GLS Track & Trace API Symfony 2 integration",
     "keywords": ["web-it","shipment", "bundle", "delivery", "parcel", "dispatch", "gls", "gls-ade", "track", "gls-track"],
