@@ -19,7 +19,10 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "symfony/symfony": "^2.3.0|^3.0.0|^5.0.0",
+        "symfony/config": "^5.0.0",
+        "symfony/dependency-injection": "^5.0.0",
+        "symfony/http-kernel": "^5.0.0",
+        "symfony/yaml": "^5.0.0",
         "insolutions/gls-ade": "^2.0.0",
         "insolutions/gls-tracking": "^2.0.0"
     },
